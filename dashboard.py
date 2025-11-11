@@ -174,7 +174,7 @@ daily_budget = {
 # --- MAIN DASHBOARD STRUCTURE ---
 
 # Create only two tabs now
-tab_general, tab_app = st.tabs(["📊 General", "📱 App Analysis"])
+tab_general, tab_app = st.tabs(["📊 General View", "📱 App View"])
 
 # ==========================================================
 # 🟢 TAB 1: GENERAL
